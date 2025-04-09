@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<img src="https://pbs.twimg.com/media/Gn7-44VbsAAfGkV?format=jpg&name=large" width="200">
+<h1>Yusuf Kuntoro</h1>
+<h2>Math student</h2>
+<p>Welcome to my website!</p>
+<a href="https://x.com/kuntoro113">Links to my X</a>
+</body>
+</html>
